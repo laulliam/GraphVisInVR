@@ -1,0 +1,831 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "Beak"
+        },
+        {
+            "id": "Beescratch"
+        },
+        {
+            "id": "Bumper"
+        },
+        {
+            "id": "CCL"
+        },
+        {
+            "id": "Cross"
+        },
+        {
+            "id": "DN16"
+        },
+        {
+            "id": "DN21"
+        },
+        {
+            "id": "DN63"
+        },
+        {
+            "id": "Double"
+        },
+        {
+            "id": "Feather"
+        },
+        {
+            "id": "Fish"
+        },
+        {
+            "id": "Five"
+        },
+        {
+            "id": "Fork"
+        },
+        {
+            "id": "Gallatin"
+        },
+        {
+            "id": "Grin"
+        },
+        {
+            "id": "Haecksel"
+        },
+        {
+            "id": "Hook"
+        },
+        {
+            "id": "Jet"
+        },
+        {
+            "id": "Jonah"
+        },
+        {
+            "id": "Knit"
+        },
+        {
+            "id": "Kringel"
+        },
+        {
+            "id": "MN105"
+        },
+        {
+            "id": "MN23"
+        },
+        {
+            "id": "MN60"
+        },
+        {
+            "id": "MN83"
+        },
+        {
+            "id": "Mus"
+        },
+        {
+            "id": "Notch"
+        },
+        {
+            "id": "Number1"
+        },
+        {
+            "id": "Oscar"
+        },
+        {
+            "id": "Patchback"
+        },
+        {
+            "id": "PL"
+        },
+        {
+            "id": "Quasi"
+        },
+        {
+            "id": "Ripplefluke"
+        },
+        {
+            "id": "Scabs"
+        },
+        {
+            "id": "Shmuddel"
+        },
+        {
+            "id": "SMN5"
+        },
+        {
+            "id": "SN100"
+        },
+        {
+            "id": "SN4"
+        },
+        {
+            "id": "SN63"
+        },
+        {
+            "id": "SN89"
+        },
+        {
+            "id": "SN9"
+        },
+        {
+            "id": "SN90"
+        },
+        {
+            "id": "SN96"
+        },
+        {
+            "id": "Stripes"
+        },
+        {
+            "id": "Thumper"
+        },
+        {
+            "id": "Topless"
+        },
+        {
+            "id": "TR120"
+        },
+        {
+            "id": "TR77"
+        },
+        {
+            "id": "TR82"
+        },
+        {
+            "id": "TR88"
+        },
+        {
+            "id": "TR99"
+        },
+        {
+            "id": "Trigger"
+        },
+        {
+            "id": "TSN103"
+        },
+        {
+            "id": "TSN83"
+        },
+        {
+            "id": "Upbang"
+        },
+        {
+            "id": "Vau"
+        },
+        {
+            "id": "Wave"
+        },
+        {
+            "id": "Web"
+        },
+        {
+            "id": "Whitetip"
+        },
+        {
+            "id": "Zap"
+        },
+        {
+            "id": "Zig"
+        },
+        {
+            "id": "Zipfel"
+        }
+    ],
+    "links": [
+        {
+            "source": "Beak",
+            "target": "Fish"
+        },
+        {
+            "source": "Beak",
+            "target": "Grin"
+        },
+        {
+            "source": "Beak",
+            "target": "Haecksel"
+        },
+        {
+            "source": "Beak",
+            "target": "SN9"
+        },
+        {
+            "source": "Beak",
+            "target": "SN96"
+        },
+        {
+            "source": "Beak",
+            "target": "TR77"
+        },
+        {
+            "source": "Beescratch",
+            "target": "Jet"
+        },
+        {
+            "source": "Beescratch",
+            "target": "Knit"
+        },
+        {
+            "source": "Beescratch",
+            "target": "Notch"
+        },
+        {
+            "source": "Beescratch",
+            "target": "Number1"
+        },
+        {
+            "source": "Beescratch",
+            "target": "Oscar"
+        },
+        {
+            "source": "Beescratch",
+            "target": "SN100"
+        },
+        {
+            "source": "Beescratch",
+            "target": "SN90"
+        },
+        {
+            "source": "Beescratch",
+            "target": "Upbang"
+        },
+        {
+            "source": "Bumper",
+            "target": "Fish"
+        },
+        {
+            "source": "Bumper",
+            "target": "SN96"
+        },
+        {
+            "source": "Bumper",
+            "target": "Thumper"
+        },
+        {
+            "source": "Bumper",
+            "target": "Zipfel"
+        },
+        {
+            "source": "CCL",
+            "target": "Double"
+        },
+        {
+            "source": "CCL",
+            "target": "Grin"
+        },
+        {
+            "source": "CCL",
+            "target": "Zap"
+        },
+        {
+            "source": "Cross",
+            "target": "Trigger"
+        },
+        {
+            "source": "DN16",
+            "target": "Feather"
+        },
+        {
+            "source": "DN16",
+            "target": "Gallatin"
+        },
+        {
+            "source": "DN16",
+            "target": "Wave"
+        },
+        {
+            "source": "DN16",
+            "target": "Web"
+        },
+        {
+            "source": "DN21",
+            "target": "Feather"
+        },
+        {
+            "source": "DN21",
+            "target": "Gallatin"
+        },
+        {
+            "source": "DN21",
+            "target": "Jet"
+        },
+        {
+            "source": "DN21",
+            "target": "Upbang"
+        },
+        {
+            "source": "DN21",
+            "target": "Wave"
+        },
+        {
+            "source": "DN21",
+            "target": "Web"
+        },
+        {
+            "source": "DN63",
+            "target": "Knit"
+        },
+        {
+            "source": "DN63",
+            "target": "Number1"
+        },
+        {
+            "source": "DN63",
+            "target": "PL"
+        },
+        {
+            "source": "DN63",
+            "target": "SN9"
+        },
+        {
+            "source": "DN63",
+            "target": "Upbang"
+        },
+        {
+            "source": "Double",
+            "target": "Kringel"
+        },
+        {
+            "source": "Double",
+            "target": "Oscar"
+        },
+        {
+            "source": "Double",
+            "target": "SN4"
+        },
+        {
+            "source": "Double",
+            "target": "Topless"
+        },
+        {
+            "source": "Double",
+            "target": "Zap"
+        },
+        {
+            "source": "Feather",
+            "target": "Gallatin"
+        },
+        {
+            "source": "Feather",
+            "target": "Jet"
+        },
+        {
+            "source": "Feather",
+            "target": "Ripplefluke"
+        },
+        {
+            "source": "Feather",
+            "target": "SN90"
+        },
+        {
+            "source": "Feather",
+            "target": "Web"
+        },
+        {
+            "source": "Fish",
+            "target": "Patchback"
+        },
+        {
+            "source": "Fish",
+            "target": "SN96"
+        },
+        {
+            "source": "Fish",
+            "target": "TR77"
+        },
+        {
+            "source": "Five",
+            "target": "Trigger"
+        },
+        {
+            "source": "Fork",
+            "target": "Scabs"
+        },
+        {
+            "source": "Gallatin",
+            "target": "Jet"
+        },
+        {
+            "source": "Gallatin",
+            "target": "Ripplefluke"
+        },
+        {
+            "source": "Gallatin",
+            "target": "SN90"
+        },
+        {
+            "source": "Gallatin",
+            "target": "Upbang"
+        },
+        {
+            "source": "Gallatin",
+            "target": "Web"
+        },
+        {
+            "source": "Grin",
+            "target": "Hook"
+        },
+        {
+            "source": "Grin",
+            "target": "MN83"
+        },
+        {
+            "source": "Grin",
+            "target": "Scabs"
+        },
+        {
+            "source": "Grin",
+            "target": "Shmuddel"
+        },
+        {
+            "source": "Grin",
+            "target": "SN4"
+        },
+        {
+            "source": "Grin",
+            "target": "SN63"
+        },
+        {
+            "source": "Grin",
+            "target": "SN9"
+        },
+        {
+            "source": "Grin",
+            "target": "Stripes"
+        },
+        {
+            "source": "Grin",
+            "target": "TR99"
+        },
+        {
+            "source": "Grin",
+            "target": "TSN103"
+        },
+        {
+            "source": "Haecksel",
+            "target": "Jonah"
+        },
+        {
+            "source": "Haecksel",
+            "target": "MN83"
+        },
+        {
+            "source": "Haecksel",
+            "target": "SN9"
+        },
+        {
+            "source": "Haecksel",
+            "target": "Topless"
+        },
+        {
+            "source": "Haecksel",
+            "target": "Vau"
+        },
+        {
+            "source": "Haecksel",
+            "target": "Zap"
+        },
+        {
+            "source": "Hook",
+            "target": "Kringel"
+        },
+        {
+            "source": "Hook",
+            "target": "Scabs"
+        },
+        {
+            "source": "Hook",
+            "target": "SN4"
+        },
+        {
+            "source": "Hook",
+            "target": "SN63"
+        },
+        {
+            "source": "Hook",
+            "target": "TR99"
+        },
+        {
+            "source": "Jet",
+            "target": "MN23"
+        },
+        {
+            "source": "Jet",
+            "target": "Mus"
+        },
+        {
+            "source": "Jet",
+            "target": "Number1"
+        },
+        {
+            "source": "Jet",
+            "target": "Quasi"
+        },
+        {
+            "source": "Jet",
+            "target": "Web"
+        },
+        {
+            "source": "Jonah",
+            "target": "Kringel"
+        },
+        {
+            "source": "Jonah",
+            "target": "MN105"
+        },
+        {
+            "source": "Jonah",
+            "target": "MN83"
+        },
+        {
+            "source": "Jonah",
+            "target": "Patchback"
+        },
+        {
+            "source": "Jonah",
+            "target": "Topless"
+        },
+        {
+            "source": "Jonah",
+            "target": "Trigger"
+        },
+        {
+            "source": "Knit",
+            "target": "PL"
+        },
+        {
+            "source": "Knit",
+            "target": "Upbang"
+        },
+        {
+            "source": "Kringel",
+            "target": "Oscar"
+        },
+        {
+            "source": "Kringel",
+            "target": "SN100"
+        },
+        {
+            "source": "Kringel",
+            "target": "SN63"
+        },
+        {
+            "source": "Kringel",
+            "target": "Thumper"
+        },
+        {
+            "source": "Kringel",
+            "target": "TR77"
+        },
+        {
+            "source": "Kringel",
+            "target": "TR99"
+        },
+        {
+            "source": "MN105",
+            "target": "Patchback"
+        },
+        {
+            "source": "MN105",
+            "target": "Scabs"
+        },
+        {
+            "source": "MN105",
+            "target": "SN4"
+        },
+        {
+            "source": "MN105",
+            "target": "Topless"
+        },
+        {
+            "source": "MN105",
+            "target": "Trigger"
+        },
+        {
+            "source": "MN60",
+            "target": "SN100"
+        },
+        {
+            "source": "MN60",
+            "target": "Topless"
+        },
+        {
+            "source": "MN60",
+            "target": "Trigger"
+        },
+        {
+            "source": "MN83",
+            "target": "Patchback"
+        },
+        {
+            "source": "MN83",
+            "target": "Topless"
+        },
+        {
+            "source": "MN83",
+            "target": "Trigger"
+        },
+        {
+            "source": "Mus",
+            "target": "Notch"
+        },
+        {
+            "source": "Mus",
+            "target": "Number1"
+        },
+        {
+            "source": "Notch",
+            "target": "Number1"
+        },
+        {
+            "source": "Oscar",
+            "target": "PL"
+        },
+        {
+            "source": "Oscar",
+            "target": "TR77"
+        },
+        {
+            "source": "Patchback",
+            "target": "SMN5"
+        },
+        {
+            "source": "Patchback",
+            "target": "Stripes"
+        },
+        {
+            "source": "Patchback",
+            "target": "Topless"
+        },
+        {
+            "source": "Patchback",
+            "target": "Trigger"
+        },
+        {
+            "source": "Patchback",
+            "target": "TSN103"
+        },
+        {
+            "source": "PL",
+            "target": "SN96"
+        },
+        {
+            "source": "PL",
+            "target": "TR77"
+        },
+        {
+            "source": "Ripplefluke",
+            "target": "Zig"
+        },
+        {
+            "source": "Scabs",
+            "target": "Shmuddel"
+        },
+        {
+            "source": "Scabs",
+            "target": "SN4"
+        },
+        {
+            "source": "Scabs",
+            "target": "SN63"
+        },
+        {
+            "source": "Scabs",
+            "target": "SN9"
+        },
+        {
+            "source": "Scabs",
+            "target": "Stripes"
+        },
+        {
+            "source": "Scabs",
+            "target": "TR99"
+        },
+        {
+            "source": "Shmuddel",
+            "target": "SN4"
+        },
+        {
+            "source": "Shmuddel",
+            "target": "Thumper"
+        },
+        {
+            "source": "Shmuddel",
+            "target": "TR88"
+        },
+        {
+            "source": "SN100",
+            "target": "SN4"
+        },
+        {
+            "source": "SN100",
+            "target": "SN89"
+        },
+        {
+            "source": "SN100",
+            "target": "SN9"
+        },
+        {
+            "source": "SN100",
+            "target": "Zap"
+        },
+        {
+            "source": "SN4",
+            "target": "SN9"
+        },
+        {
+            "source": "SN4",
+            "target": "Stripes"
+        },
+        {
+            "source": "SN4",
+            "target": "Topless"
+        },
+        {
+            "source": "SN4",
+            "target": "Zipfel"
+        },
+        {
+            "source": "SN63",
+            "target": "Stripes"
+        },
+        {
+            "source": "SN63",
+            "target": "Thumper"
+        },
+        {
+            "source": "SN63",
+            "target": "TSN103"
+        },
+        {
+            "source": "SN63",
+            "target": "Whitetip"
+        },
+        {
+            "source": "SN89",
+            "target": "Web"
+        },
+        {
+            "source": "SN9",
+            "target": "TSN103"
+        },
+        {
+            "source": "SN90",
+            "target": "Upbang"
+        },
+        {
+            "source": "SN90",
+            "target": "Web"
+        },
+        {
+            "source": "SN96",
+            "target": "TR77"
+        },
+        {
+            "source": "SN96",
+            "target": "TR99"
+        },
+        {
+            "source": "Stripes",
+            "target": "TR120"
+        },
+        {
+            "source": "Stripes",
+            "target": "TSN83"
+        },
+        {
+            "source": "Topless",
+            "target": "TR99"
+        },
+        {
+            "source": "Topless",
+            "target": "Trigger"
+        },
+        {
+            "source": "Topless",
+            "target": "Zap"
+        },
+        {
+            "source": "TR120",
+            "target": "TR88"
+        },
+        {
+            "source": "TR82",
+            "target": "Web"
+        },
+        {
+            "source": "TR99",
+            "target": "Trigger"
+        },
+        {
+            "source": "Trigger",
+            "target": "Vau"
+        },
+        {
+            "source": "TSN83",
+            "target": "Zipfel"
+        },
+        {
+            "source": "Upbang",
+            "target": "Web"
+        }
+    ]
+}

@@ -1,0 +1,3132 @@
+{
+  "nodes": [
+    {
+      "id": "Myriel",
+      "group": 1
+    },
+    {
+      "id": "Napoleon",
+      "group": 1
+    },
+    {
+      "id": "Mlle.Baptistine",
+      "group": 1
+    },
+    {
+      "id": "Mme.Magloire",
+      "group": 1
+    },
+    {
+      "id": "CountessdeLo",
+      "group": 1
+    },
+    {
+      "id": "Geborand",
+      "group": 1
+    },
+    {
+      "id": "Champtercier",
+      "group": 1
+    },
+    {
+      "id": "Cravatte",
+      "group": 1
+    },
+    {
+      "id": "Count",
+      "group": 1
+    },
+    {
+      "id": "OldMan",
+      "group": 1
+    },
+    {
+      "id": "Labarre",
+      "group": 2
+    },
+    {
+      "id": "Valjean",
+      "group": 2
+    },
+    {
+      "id": "Marguerite",
+      "group": 3
+    },
+    {
+      "id": "Mme.deR",
+      "group": 2
+    },
+    {
+      "id": "Isabeau",
+      "group": 2
+    },
+    {
+      "id": "Gervais",
+      "group": 2
+    },
+    {
+      "id": "Tholomyes",
+      "group": 3
+    },
+    {
+      "id": "Listolier",
+      "group": 3
+    },
+    {
+      "id": "Fameuil",
+      "group": 3
+    },
+    {
+      "id": "Blacheville",
+      "group": 3
+    },
+    {
+      "id": "Favourite",
+      "group": 3
+    },
+    {
+      "id": "Dahlia",
+      "group": 3
+    },
+    {
+      "id": "Zephine",
+      "group": 3
+    },
+    {
+      "id": "Fantine",
+      "group": 3
+    },
+    {
+      "id": "Mme.Thenardier",
+      "group": 4
+    },
+    {
+      "id": "Thenardier",
+      "group": 4
+    },
+    {
+      "id": "Cosette",
+      "group": 5
+    },
+    {
+      "id": "Javert",
+      "group": 4
+    },
+    {
+      "id": "Fauchelevent",
+      "group": 0
+    },
+    {
+      "id": "Bamatabois",
+      "group": 2
+    },
+    {
+      "id": "Perpetue",
+      "group": 3
+    },
+    {
+      "id": "Simplice",
+      "group": 2
+    },
+    {
+      "id": "Scaufflaire",
+      "group": 2
+    },
+    {
+      "id": "Woman1",
+      "group": 2
+    },
+    {
+      "id": "Judge",
+      "group": 2
+    },
+    {
+      "id": "Champmathieu",
+      "group": 2
+    },
+    {
+      "id": "Brevet",
+      "group": 2
+    },
+    {
+      "id": "Chenildieu",
+      "group": 2
+    },
+    {
+      "id": "Cochepaille",
+      "group": 2
+    },
+    {
+      "id": "Pontmercy",
+      "group": 4
+    },
+    {
+      "id": "Boulatruelle",
+      "group": 6
+    },
+    {
+      "id": "Eponine",
+      "group": 4
+    },
+    {
+      "id": "Anzelma",
+      "group": 4
+    },
+    {
+      "id": "Woman2",
+      "group": 5
+    },
+    {
+      "id": "MotherInnocent",
+      "group": 0
+    },
+    {
+      "id": "Gribier",
+      "group": 0
+    },
+    {
+      "id": "Jondrette",
+      "group": 7
+    },
+    {
+      "id": "Mme.Burgon",
+      "group": 7
+    },
+    {
+      "id": "Gavroche",
+      "group": 8
+    },
+    {
+      "id": "Gillenormand",
+      "group": 5
+    },
+    {
+      "id": "Magnon",
+      "group": 5
+    },
+    {
+      "id": "Mlle.Gillenormand",
+      "group": 5
+    },
+    {
+      "id": "Mme.Pontmercy",
+      "group": 5
+    },
+    {
+      "id": "Mlle.Vaubois",
+      "group": 5
+    },
+    {
+      "id": "Lt.Gillenormand",
+      "group": 5
+    },
+    {
+      "id": "Marius",
+      "group": 8
+    },
+    {
+      "id": "BaronessT",
+      "group": 5
+    },
+    {
+      "id": "Mabeuf",
+      "group": 8
+    },
+    {
+      "id": "Enjolras",
+      "group": 8
+    },
+    {
+      "id": "Combeferre",
+      "group": 8
+    },
+    {
+      "id": "Prouvaire",
+      "group": 8
+    },
+    {
+      "id": "Feuilly",
+      "group": 8
+    },
+    {
+      "id": "Courfeyrac",
+      "group": 8
+    },
+    {
+      "id": "Bahorel",
+      "group": 8
+    },
+    {
+      "id": "Bossuet",
+      "group": 8
+    },
+    {
+      "id": "Joly",
+      "group": 8
+    },
+    {
+      "id": "Grantaire",
+      "group": 8
+    },
+    {
+      "id": "MotherPlutarch",
+      "group": 9
+    },
+    {
+      "id": "Gueulemer",
+      "group": 4
+    },
+    {
+      "id": "Babet",
+      "group": 4
+    },
+    {
+      "id": "Claquesous",
+      "group": 4
+    },
+    {
+      "id": "Montparnasse",
+      "group": 4
+    },
+    {
+      "id": "Toussaint",
+      "group": 5
+    },
+    {
+      "id": "Child1",
+      "group": 10
+    },
+    {
+      "id": "Child2",
+      "group": 10
+    },
+    {
+      "id": "Brujon",
+      "group": 4
+    },
+    {
+      "id": "Mme.Hucheloup",
+      "group": 8
+    }
+  ],
+  "links": [
+    {
+      "source": "Napoleon",
+      "target": "Myriel",
+      "value": 1
+    },
+    {
+      "source": "Mlle.Baptistine",
+      "target": "Myriel",
+      "value": 8
+    },
+    {
+      "source": "Mme.Magloire",
+      "target": "Myriel",
+      "value": 10
+    },
+    {
+      "source": "Mme.Magloire",
+      "target": "Mlle.Baptistine",
+      "value": 6
+    },
+    {
+      "source": "CountessdeLo",
+      "target": "Myriel",
+      "value": 1
+    },
+    {
+      "source": "Geborand",
+      "target": "Myriel",
+      "value": 1
+    },
+    {
+      "source": "Champtercier",
+      "target": "Myriel",
+      "value": 1
+    },
+    {
+      "source": "Cravatte",
+      "target": "Myriel",
+      "value": 1
+    },
+    {
+      "source": "Count",
+      "target": "Myriel",
+      "value": 2
+    },
+    {
+      "source": "OldMan",
+      "target": "Myriel",
+      "value": 1
+    },
+    {
+      "source": "Valjean",
+      "target": "Labarre",
+      "value": 1
+    },
+    {
+      "source": "Valjean",
+      "target": "Mme.Magloire",
+      "value": 3
+    },
+    {
+      "source": "Valjean",
+      "target": "Mlle.Baptistine",
+      "value": 3
+    },
+    {
+      "source": "Valjean",
+      "target": "Myriel",
+      "value": 5
+    },
+    {
+      "source": "Marguerite",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Mme.deR",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Isabeau",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Gervais",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Listolier",
+      "target": "Tholomyes",
+      "value": 4
+    },
+    {
+      "source": "Fameuil",
+      "target": "Tholomyes",
+      "value": 4
+    },
+    {
+      "source": "Fameuil",
+      "target": "Listolier",
+      "value": 4
+    },
+    {
+      "source": "Blacheville",
+      "target": "Tholomyes",
+      "value": 4
+    },
+    {
+      "source": "Blacheville",
+      "target": "Listolier",
+      "value": 4
+    },
+    {
+      "source": "Blacheville",
+      "target": "Fameuil",
+      "value": 4
+    },
+    {
+      "source": "Favourite",
+      "target": "Tholomyes",
+      "value": 3
+    },
+    {
+      "source": "Favourite",
+      "target": "Listolier",
+      "value": 3
+    },
+    {
+      "source": "Favourite",
+      "target": "Fameuil",
+      "value": 3
+    },
+    {
+      "source": "Favourite",
+      "target": "Blacheville",
+      "value": 4
+    },
+    {
+      "source": "Dahlia",
+      "target": "Tholomyes",
+      "value": 3
+    },
+    {
+      "source": "Dahlia",
+      "target": "Listolier",
+      "value": 3
+    },
+    {
+      "source": "Dahlia",
+      "target": "Fameuil",
+      "value": 3
+    },
+    {
+      "source": "Dahlia",
+      "target": "Blacheville",
+      "value": 3
+    },
+    {
+      "source": "Dahlia",
+      "target": "Favourite",
+      "value": 5
+    },
+    {
+      "source": "Zephine",
+      "target": "Tholomyes",
+      "value": 3
+    },
+    {
+      "source": "Zephine",
+      "target": "Listolier",
+      "value": 3
+    },
+    {
+      "source": "Zephine",
+      "target": "Fameuil",
+      "value": 3
+    },
+    {
+      "source": "Zephine",
+      "target": "Blacheville",
+      "value": 3
+    },
+    {
+      "source": "Zephine",
+      "target": "Favourite",
+      "value": 4
+    },
+    {
+      "source": "Zephine",
+      "target": "Dahlia",
+      "value": 4
+    },
+    {
+      "source": "Fantine",
+      "target": "Tholomyes",
+      "value": 3
+    },
+    {
+      "source": "Fantine",
+      "target": "Listolier",
+      "value": 3
+    },
+    {
+      "source": "Fantine",
+      "target": "Fameuil",
+      "value": 3
+    },
+    {
+      "source": "Fantine",
+      "target": "Blacheville",
+      "value": 3
+    },
+    {
+      "source": "Fantine",
+      "target": "Favourite",
+      "value": 4
+    },
+    {
+      "source": "Fantine",
+      "target": "Dahlia",
+      "value": 4
+    },
+    {
+      "source": "Fantine",
+      "target": "Zephine",
+      "value": 4
+    },
+    {
+      "source": "Fantine",
+      "target": "Marguerite",
+      "value": 2
+    },
+    {
+      "source": "Fantine",
+      "target": "Valjean",
+      "value": 9
+    },
+    {
+      "source": "Mme.Thenardier",
+      "target": "Fantine",
+      "value": 2
+    },
+    {
+      "source": "Mme.Thenardier",
+      "target": "Valjean",
+      "value": 7
+    },
+    {
+      "source": "Thenardier",
+      "target": "Mme.Thenardier",
+      "value": 13
+    },
+    {
+      "source": "Thenardier",
+      "target": "Fantine",
+      "value": 1
+    },
+    {
+      "source": "Thenardier",
+      "target": "Valjean",
+      "value": 12
+    },
+    {
+      "source": "Cosette",
+      "target": "Mme.Thenardier",
+      "value": 4
+    },
+    {
+      "source": "Cosette",
+      "target": "Valjean",
+      "value": 31
+    },
+    {
+      "source": "Cosette",
+      "target": "Tholomyes",
+      "value": 1
+    },
+    {
+      "source": "Cosette",
+      "target": "Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Javert",
+      "target": "Valjean",
+      "value": 17
+    },
+    {
+      "source": "Javert",
+      "target": "Fantine",
+      "value": 5
+    },
+    {
+      "source": "Javert",
+      "target": "Thenardier",
+      "value": 5
+    },
+    {
+      "source": "Javert",
+      "target": "Mme.Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Javert",
+      "target": "Cosette",
+      "value": 1
+    },
+    {
+      "source": "Fauchelevent",
+      "target": "Valjean",
+      "value": 8
+    },
+    {
+      "source": "Fauchelevent",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Bamatabois",
+      "target": "Fantine",
+      "value": 1
+    },
+    {
+      "source": "Bamatabois",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Bamatabois",
+      "target": "Valjean",
+      "value": 2
+    },
+    {
+      "source": "Perpetue",
+      "target": "Fantine",
+      "value": 1
+    },
+    {
+      "source": "Simplice",
+      "target": "Perpetue",
+      "value": 2
+    },
+    {
+      "source": "Simplice",
+      "target": "Valjean",
+      "value": 3
+    },
+    {
+      "source": "Simplice",
+      "target": "Fantine",
+      "value": 2
+    },
+    {
+      "source": "Simplice",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Scaufflaire",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Woman1",
+      "target": "Valjean",
+      "value": 2
+    },
+    {
+      "source": "Woman1",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Judge",
+      "target": "Valjean",
+      "value": 3
+    },
+    {
+      "source": "Judge",
+      "target": "Bamatabois",
+      "value": 2
+    },
+    {
+      "source": "Champmathieu",
+      "target": "Valjean",
+      "value": 3
+    },
+    {
+      "source": "Champmathieu",
+      "target": "Judge",
+      "value": 3
+    },
+    {
+      "source": "Champmathieu",
+      "target": "Bamatabois",
+      "value": 2
+    },
+    {
+      "source": "Brevet",
+      "target": "Judge",
+      "value": 2
+    },
+    {
+      "source": "Brevet",
+      "target": "Champmathieu",
+      "value": 2
+    },
+    {
+      "source": "Brevet",
+      "target": "Valjean",
+      "value": 2
+    },
+    {
+      "source": "Brevet",
+      "target": "Bamatabois",
+      "value": 1
+    },
+    {
+      "source": "Chenildieu",
+      "target": "Judge",
+      "value": 2
+    },
+    {
+      "source": "Chenildieu",
+      "target": "Champmathieu",
+      "value": 2
+    },
+    {
+      "source": "Chenildieu",
+      "target": "Brevet",
+      "value": 2
+    },
+    {
+      "source": "Chenildieu",
+      "target": "Valjean",
+      "value": 2
+    },
+    {
+      "source": "Chenildieu",
+      "target": "Bamatabois",
+      "value": 1
+    },
+    {
+      "source": "Cochepaille",
+      "target": "Judge",
+      "value": 2
+    },
+    {
+      "source": "Cochepaille",
+      "target": "Champmathieu",
+      "value": 2
+    },
+    {
+      "source": "Cochepaille",
+      "target": "Brevet",
+      "value": 2
+    },
+    {
+      "source": "Cochepaille",
+      "target": "Chenildieu",
+      "value": 2
+    },
+    {
+      "source": "Cochepaille",
+      "target": "Valjean",
+      "value": 2
+    },
+    {
+      "source": "Cochepaille",
+      "target": "Bamatabois",
+      "value": 1
+    },
+    {
+      "source": "Pontmercy",
+      "target": "Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Boulatruelle",
+      "target": "Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Eponine",
+      "target": "Mme.Thenardier",
+      "value": 2
+    },
+    {
+      "source": "Eponine",
+      "target": "Thenardier",
+      "value": 3
+    },
+    {
+      "source": "Anzelma",
+      "target": "Eponine",
+      "value": 2
+    },
+    {
+      "source": "Anzelma",
+      "target": "Thenardier",
+      "value": 2
+    },
+    {
+      "source": "Anzelma",
+      "target": "Mme.Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Woman2",
+      "target": "Valjean",
+      "value": 3
+    },
+    {
+      "source": "Woman2",
+      "target": "Cosette",
+      "value": 1
+    },
+    {
+      "source": "Woman2",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "MotherInnocent",
+      "target": "Fauchelevent",
+      "value": 3
+    },
+    {
+      "source": "MotherInnocent",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Gribier",
+      "target": "Fauchelevent",
+      "value": 2
+    },
+    {
+      "source": "Mme.Burgon",
+      "target": "Jondrette",
+      "value": 1
+    },
+    {
+      "source": "Gavroche",
+      "target": "Mme.Burgon",
+      "value": 2
+    },
+    {
+      "source": "Gavroche",
+      "target": "Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Gavroche",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Gavroche",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Gillenormand",
+      "target": "Cosette",
+      "value": 3
+    },
+    {
+      "source": "Gillenormand",
+      "target": "Valjean",
+      "value": 2
+    },
+    {
+      "source": "Magnon",
+      "target": "Gillenormand",
+      "value": 1
+    },
+    {
+      "source": "Magnon",
+      "target": "Mme.Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Mlle.Gillenormand",
+      "target": "Gillenormand",
+      "value": 9
+    },
+    {
+      "source": "Mlle.Gillenormand",
+      "target": "Cosette",
+      "value": 2
+    },
+    {
+      "source": "Mlle.Gillenormand",
+      "target": "Valjean",
+      "value": 2
+    },
+    {
+      "source": "Mme.Pontmercy",
+      "target": "Mlle.Gillenormand",
+      "value": 1
+    },
+    {
+      "source": "Mme.Pontmercy",
+      "target": "Pontmercy",
+      "value": 1
+    },
+    {
+      "source": "Mlle.Vaubois",
+      "target": "Mlle.Gillenormand",
+      "value": 1
+    },
+    {
+      "source": "Lt.Gillenormand",
+      "target": "Mlle.Gillenormand",
+      "value": 2
+    },
+    {
+      "source": "Lt.Gillenormand",
+      "target": "Gillenormand",
+      "value": 1
+    },
+    {
+      "source": "Lt.Gillenormand",
+      "target": "Cosette",
+      "value": 1
+    },
+    {
+      "source": "Marius",
+      "target": "Mlle.Gillenormand",
+      "value": 6
+    },
+    {
+      "source": "Marius",
+      "target": "Gillenormand",
+      "value": 12
+    },
+    {
+      "source": "Marius",
+      "target": "Pontmercy",
+      "value": 1
+    },
+    {
+      "source": "Marius",
+      "target": "Lt.Gillenormand",
+      "value": 1
+    },
+    {
+      "source": "Marius",
+      "target": "Cosette",
+      "value": 21
+    },
+    {
+      "source": "Marius",
+      "target": "Valjean",
+      "value": 19
+    },
+    {
+      "source": "Marius",
+      "target": "Tholomyes",
+      "value": 1
+    },
+    {
+      "source": "Marius",
+      "target": "Thenardier",
+      "value": 2
+    },
+    {
+      "source": "Marius",
+      "target": "Eponine",
+      "value": 5
+    },
+    {
+      "source": "Marius",
+      "target": "Gavroche",
+      "value": 4
+    },
+    {
+      "source": "BaronessT",
+      "target": "Gillenormand",
+      "value": 1
+    },
+    {
+      "source": "BaronessT",
+      "target": "Marius",
+      "value": 1
+    },
+    {
+      "source": "Mabeuf",
+      "target": "Marius",
+      "value": 1
+    },
+    {
+      "source": "Mabeuf",
+      "target": "Eponine",
+      "value": 1
+    },
+    {
+      "source": "Mabeuf",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Enjolras",
+      "target": "Marius",
+      "value": 7
+    },
+    {
+      "source": "Enjolras",
+      "target": "Gavroche",
+      "value": 7
+    },
+    {
+      "source": "Enjolras",
+      "target": "Javert",
+      "value": 6
+    },
+    {
+      "source": "Enjolras",
+      "target": "Mabeuf",
+      "value": 1
+    },
+    {
+      "source": "Enjolras",
+      "target": "Valjean",
+      "value": 4
+    },
+    {
+      "source": "Combeferre",
+      "target": "Enjolras",
+      "value": 15
+    },
+    {
+      "source": "Combeferre",
+      "target": "Marius",
+      "value": 5
+    },
+    {
+      "source": "Combeferre",
+      "target": "Gavroche",
+      "value": 6
+    },
+    {
+      "source": "Combeferre",
+      "target": "Mabeuf",
+      "value": 2
+    },
+    {
+      "source": "Prouvaire",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Prouvaire",
+      "target": "Enjolras",
+      "value": 4
+    },
+    {
+      "source": "Prouvaire",
+      "target": "Combeferre",
+      "value": 2
+    },
+    {
+      "source": "Feuilly",
+      "target": "Gavroche",
+      "value": 2
+    },
+    {
+      "source": "Feuilly",
+      "target": "Enjolras",
+      "value": 6
+    },
+    {
+      "source": "Feuilly",
+      "target": "Prouvaire",
+      "value": 2
+    },
+    {
+      "source": "Feuilly",
+      "target": "Combeferre",
+      "value": 5
+    },
+    {
+      "source": "Feuilly",
+      "target": "Mabeuf",
+      "value": 1
+    },
+    {
+      "source": "Feuilly",
+      "target": "Marius",
+      "value": 1
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Marius",
+      "value": 9
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Enjolras",
+      "value": 17
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Combeferre",
+      "value": 13
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Gavroche",
+      "value": 7
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Mabeuf",
+      "value": 2
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Eponine",
+      "value": 1
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Feuilly",
+      "value": 6
+    },
+    {
+      "source": "Courfeyrac",
+      "target": "Prouvaire",
+      "value": 3
+    },
+    {
+      "source": "Bahorel",
+      "target": "Combeferre",
+      "value": 5
+    },
+    {
+      "source": "Bahorel",
+      "target": "Gavroche",
+      "value": 5
+    },
+    {
+      "source": "Bahorel",
+      "target": "Courfeyrac",
+      "value": 6
+    },
+    {
+      "source": "Bahorel",
+      "target": "Mabeuf",
+      "value": 2
+    },
+    {
+      "source": "Bahorel",
+      "target": "Enjolras",
+      "value": 4
+    },
+    {
+      "source": "Bahorel",
+      "target": "Feuilly",
+      "value": 3
+    },
+    {
+      "source": "Bahorel",
+      "target": "Prouvaire",
+      "value": 2
+    },
+    {
+      "source": "Bahorel",
+      "target": "Marius",
+      "value": 1
+    },
+    {
+      "source": "Bossuet",
+      "target": "Marius",
+      "value": 5
+    },
+    {
+      "source": "Bossuet",
+      "target": "Courfeyrac",
+      "value": 12
+    },
+    {
+      "source": "Bossuet",
+      "target": "Gavroche",
+      "value": 5
+    },
+    {
+      "source": "Bossuet",
+      "target": "Bahorel",
+      "value": 4
+    },
+    {
+      "source": "Bossuet",
+      "target": "Enjolras",
+      "value": 10
+    },
+    {
+      "source": "Bossuet",
+      "target": "Feuilly",
+      "value": 6
+    },
+    {
+      "source": "Bossuet",
+      "target": "Prouvaire",
+      "value": 2
+    },
+    {
+      "source": "Bossuet",
+      "target": "Combeferre",
+      "value": 9
+    },
+    {
+      "source": "Bossuet",
+      "target": "Mabeuf",
+      "value": 1
+    },
+    {
+      "source": "Bossuet",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Joly",
+      "target": "Bahorel",
+      "value": 5
+    },
+    {
+      "source": "Joly",
+      "target": "Bossuet",
+      "value": 7
+    },
+    {
+      "source": "Joly",
+      "target": "Gavroche",
+      "value": 3
+    },
+    {
+      "source": "Joly",
+      "target": "Courfeyrac",
+      "value": 5
+    },
+    {
+      "source": "Joly",
+      "target": "Enjolras",
+      "value": 5
+    },
+    {
+      "source": "Joly",
+      "target": "Feuilly",
+      "value": 5
+    },
+    {
+      "source": "Joly",
+      "target": "Prouvaire",
+      "value": 2
+    },
+    {
+      "source": "Joly",
+      "target": "Combeferre",
+      "value": 5
+    },
+    {
+      "source": "Joly",
+      "target": "Mabeuf",
+      "value": 1
+    },
+    {
+      "source": "Joly",
+      "target": "Marius",
+      "value": 2
+    },
+    {
+      "source": "Grantaire",
+      "target": "Bossuet",
+      "value": 3
+    },
+    {
+      "source": "Grantaire",
+      "target": "Enjolras",
+      "value": 3
+    },
+    {
+      "source": "Grantaire",
+      "target": "Combeferre",
+      "value": 1
+    },
+    {
+      "source": "Grantaire",
+      "target": "Courfeyrac",
+      "value": 2
+    },
+    {
+      "source": "Grantaire",
+      "target": "Joly",
+      "value": 2
+    },
+    {
+      "source": "Grantaire",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Grantaire",
+      "target": "Bahorel",
+      "value": 1
+    },
+    {
+      "source": "Grantaire",
+      "target": "Feuilly",
+      "value": 1
+    },
+    {
+      "source": "Grantaire",
+      "target": "Prouvaire",
+      "value": 1
+    },
+    {
+      "source": "MotherPlutarch",
+      "target": "Mabeuf",
+      "value": 3
+    },
+    {
+      "source": "Gueulemer",
+      "target": "Thenardier",
+      "value": 5
+    },
+    {
+      "source": "Gueulemer",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Gueulemer",
+      "target": "Mme.Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Gueulemer",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Gueulemer",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Gueulemer",
+      "target": "Eponine",
+      "value": 1
+    },
+    {
+      "source": "Babet",
+      "target": "Thenardier",
+      "value": 6
+    },
+    {
+      "source": "Babet",
+      "target": "Gueulemer",
+      "value": 6
+    },
+    {
+      "source": "Babet",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Babet",
+      "target": "Mme.Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Babet",
+      "target": "Javert",
+      "value": 2
+    },
+    {
+      "source": "Babet",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Babet",
+      "target": "Eponine",
+      "value": 1
+    },
+    {
+      "source": "Claquesous",
+      "target": "Thenardier",
+      "value": 4
+    },
+    {
+      "source": "Claquesous",
+      "target": "Babet",
+      "value": 4
+    },
+    {
+      "source": "Claquesous",
+      "target": "Gueulemer",
+      "value": 4
+    },
+    {
+      "source": "Claquesous",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Claquesous",
+      "target": "Mme.Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Claquesous",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Claquesous",
+      "target": "Eponine",
+      "value": 1
+    },
+    {
+      "source": "Claquesous",
+      "target": "Enjolras",
+      "value": 1
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Babet",
+      "value": 2
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Gueulemer",
+      "value": 2
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Claquesous",
+      "value": 2
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Eponine",
+      "value": 1
+    },
+    {
+      "source": "Montparnasse",
+      "target": "Thenardier",
+      "value": 1
+    },
+    {
+      "source": "Toussaint",
+      "target": "Cosette",
+      "value": 2
+    },
+    {
+      "source": "Toussaint",
+      "target": "Javert",
+      "value": 1
+    },
+    {
+      "source": "Toussaint",
+      "target": "Valjean",
+      "value": 1
+    },
+    {
+      "source": "Child1",
+      "target": "Gavroche",
+      "value": 2
+    },
+    {
+      "source": "Child2",
+      "target": "Gavroche",
+      "value": 2
+    },
+    {
+      "source": "Child2",
+      "target": "Child1",
+      "value": 3
+    },
+    {
+      "source": "Brujon",
+      "target": "Babet",
+      "value": 3
+    },
+    {
+      "source": "Brujon",
+      "target": "Gueulemer",
+      "value": 3
+    },
+    {
+      "source": "Brujon",
+      "target": "Thenardier",
+      "value": 3
+    },
+    {
+      "source": "Brujon",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Brujon",
+      "target": "Eponine",
+      "value": 1
+    },
+    {
+      "source": "Brujon",
+      "target": "Claquesous",
+      "value": 1
+    },
+    {
+      "source": "Brujon",
+      "target": "Montparnasse",
+      "value": 1
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "target": "Bossuet",
+      "value": 1
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "target": "Joly",
+      "value": 1
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "target": "Grantaire",
+      "value": 1
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "target": "Bahorel",
+      "value": 1
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "target": "Courfeyrac",
+      "value": 1
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "target": "Gavroche",
+      "value": 1
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "target": "Enjolras",
+      "value": 1
+    }
+  ],
+  "INIT": {
+    "nodeMyriel": {
+      "x": -46.95931263259743,
+      "y": -98.51374345291498,
+      "z": 34.84230543396436
+    },
+    "nodeNapoleon": {
+      "x": -53.15877390667111,
+      "y": -125.99093313602295,
+      "z": 63.13750947891164
+    },
+    "nodeMlle.Baptistine": {
+      "x": -34.655553633778474,
+      "y": -67.70588084303498,
+      "z": 0.908604123645338
+    },
+    "nodeMme.Magloire": {
+      "x": -17.314835088344662,
+      "y": -64.67755963777924,
+      "z": 19.705138020713868
+    },
+    "nodeCountessdeLo": {
+      "x": -39.94130149349185,
+      "y": -132.84054886890056,
+      "z": 50.986049176361114
+    },
+    "nodeGeborand": {
+      "x": -83.21696975497277,
+      "y": -107.07215771619617,
+      "z": 43.885885533962195
+    },
+    "nodeChamptercier": {
+      "x": -74.17485244493882,
+      "y": -126.61753658484804,
+      "z": 39.65524997100167
+    },
+    "nodeCravatte": {
+      "x": -71.75840489234155,
+      "y": -112.72689506236871,
+      "z": 62.33975329505619
+    },
+    "nodeCount": {
+      "x": -54.591941059328455,
+      "y": -104.66279215751203,
+      "z": 72.20611522213545
+    },
+    "nodeOldMan": {
+      "x": -56.92974385513678,
+      "y": -135.77534347409463,
+      "z": 31.646105651069707
+    },
+    "nodeLabarre": {
+      "x": -15.543283058909921,
+      "y": -30.919211526828022,
+      "z": -50.037722744231914
+    },
+    "nodeValjean": {
+      "x": 4.812919572815529,
+      "y": -16.350413640530263,
+      "z": -22.96299318283174
+    },
+    "nodeMarguerite": {
+      "x": 66.93645675326314,
+      "y": -27.202942831997817,
+      "z": -0.7670423028245631
+    },
+    "nodeMme.deR": {
+      "x": -31.07938122432683,
+      "y": -20.198715160376622,
+      "z": -30.12598593091984
+    },
+    "nodeIsabeau": {
+      "x": 7.283204864940797,
+      "y": -44.249605478157534,
+      "z": 1.2433049362381703
+    },
+    "nodeGervais": {
+      "x": -8.693204050032206,
+      "y": -51.59602834275395,
+      "z": -25.90366676261218
+    },
+    "nodeTholomyes": {
+      "x": 125.29716250012937,
+      "y": -13.053402315761174,
+      "z": 56.49495197943141
+    },
+    "nodeListolier": {
+      "x": 163.08031331927006,
+      "y": -57.71351319900683,
+      "z": 49.488689116724416
+    },
+    "nodeFameuil": {
+      "x": 170.66825434890114,
+      "y": -22.27583911087787,
+      "z": 66.88482946564767
+    },
+    "nodeBlacheville": {
+      "x": 193.44451188188606,
+      "y": -36.97251751933935,
+      "z": 50.38229643073841
+    },
+    "nodeFavourite": {
+      "x": 177.24833845519885,
+      "y": -45.972385872331934,
+      "z": 29.34788891457417
+    },
+    "nodeDahlia": {
+      "x": 177.7280828811789,
+      "y": -17.197984287407014,
+      "z": 39.28624604828191
+    },
+    "nodeZephine": {
+      "x": 172.59152057777644,
+      "y": -48.43708967261306,
+      "z": 70.56413050419
+    },
+    "nodeFantine": {
+      "x": 119.21054337748872,
+      "y": -24.483311580650692,
+      "z": 11.899077133285374
+    },
+    "nodeMme.Thenardier": {
+      "x": 62.38889601931593,
+      "y": 34.67337360062423,
+      "z": -24.05102234537346
+    },
+    "nodeThenardier": {
+      "x": 29.381003331233465,
+      "y": 52.942464919119026,
+      "z": -15.062349059664673
+    },
+    "nodeCosette": {
+      "x": 43.47125722226196,
+      "y": 14.88226037746003,
+      "z": 33.882844728415115
+    },
+    "nodeJavert": {
+      "x": 38.5828288609474,
+      "y": 8.648274179653633,
+      "z": -36.70866860148753
+    },
+    "nodeFauchelevent": {
+      "x": 48.850828635915995,
+      "y": -46.80925149393934,
+      "z": -41.13359705224313
+    },
+    "nodeBamatabois": {
+      "x": 35.58949088335979,
+      "y": -50.72639412549541,
+      "z": -65.66972295585315
+    },
+    "nodePerpetue": {
+      "x": 117.07912092439459,
+      "y": -55.67189292845534,
+      "z": -4.162928054850551
+    },
+    "nodeSimplice": {
+      "x": 78.00707489088613,
+      "y": -28.20815350133897,
+      "z": -18.68175064082309
+    },
+    "nodeScaufflaire": {
+      "x": -20.60936851280425,
+      "y": -33.15168094169285,
+      "z": -2.7601730810378413
+    },
+    "nodeWoman1": {
+      "x": 38.747800035193634,
+      "y": -23.93167752080355,
+      "z": -44.7463328803341
+    },
+    "nodeJudge": {
+      "x": 1.187490625981611,
+      "y": -41.82209287175916,
+      "z": -90.17476744208436
+    },
+    "nodeChampmathieu": {
+      "x": 10.810812145794264,
+      "y": -73.00762631639064,
+      "z": -87.49804577599134
+    },
+    "nodeBrevet": {
+      "x": -15.293658426443953,
+      "y": -59.14733557105207,
+      "z": -94.58493717299656
+    },
+    "nodeChenildieu": {
+      "x": -24.760658428547707,
+      "y": -60.93281928690026,
+      "z": -71.4226891321066
+    },
+    "nodeCochepaille": {
+      "x": -5.369197894206687,
+      "y": -81.39297456446673,
+      "z": -67.59397922438627
+    },
+    "nodePontmercy": {
+      "x": 11.705107733091827,
+      "y": 66.97003815793069,
+      "z": 38.27820673179187
+    },
+    "nodeBoulatruelle": {
+      "x": 62.19392989088771,
+      "y": 75.37962990723142,
+      "z": -15.199558141114409
+    },
+    "nodeEponine": {
+      "x": -4.867035106211542,
+      "y": 80.03712697639878,
+      "z": -21.67606919976127
+    },
+    "nodeAnzelma": {
+      "x": 47.74319456774703,
+      "y": 79.99303870583347,
+      "z": -34.13266880997174
+    },
+    "nodeWoman2": {
+      "x": 36.539046818147334,
+      "y": -12.885584916203381,
+      "z": 4.735429486165643
+    },
+    "nodeMotherInnocent": {
+      "x": 20.95058251486909,
+      "y": -60.51503463983215,
+      "z": -26.95096513413939
+    },
+    "nodeGribier": {
+      "x": 67.75065708564381,
+      "y": -83.31105275597172,
+      "z": -48.16674114727797
+    },
+    "nodeJondrette": {
+      "x": -52.58271224329405,
+      "y": 154.39898757009863,
+      "z": -36.54663676787938
+    },
+    "nodeMme.Burgon": {
+      "x": -58.08938298364179,
+      "y": 114.2391595601225,
+      "z": -34.868221810840936
+    },
+    "nodeGavroche": {
+      "x": -59.63917973669083,
+      "y": 63.79442701551873,
+      "z": -27.956512951963173
+    },
+    "nodeGillenormand": {
+      "x": 11.047659452229686,
+      "y": 28.099263164835772,
+      "z": 41.966088456620184
+    },
+    "nodeMagnon": {
+      "x": 56.15812962717186,
+      "y": 41.70924646691843,
+      "z": 21.23558197601011
+    },
+    "nodeMlle.Gillenormand": {
+      "x": 3.6563408633532166,
+      "y": 6.40436446648444,
+      "z": 62.513271690884444
+    },
+    "nodeMme.Pontmercy": {
+      "x": 22.56543013607349,
+      "y": 44.2592219458413,
+      "z": 82.39181203245509
+    },
+    "nodeMlle.Vaubois": {
+      "x": 4.747232152873541,
+      "y": -2.813907651002124,
+      "z": 101.35342115705335
+    },
+    "nodeLt.Gillenormand": {
+      "x": 3.6524181879173754,
+      "y": 37.750138071783915,
+      "z": 72.95081760173004
+    },
+    "nodeMarius": {
+      "x": -35.715134902886945,
+      "y": 50.258624352585876,
+      "z": 31.355250816139563
+    },
+    "nodeBaronessT": {
+      "x": -17.287283288399216,
+      "y": 53.806788125878995,
+      "z": 65.93352972223788
+    },
+    "nodeMabeuf": {
+      "x": -79.61358662610296,
+      "y": 74.51799070263534,
+      "z": 29.467303034064273
+    },
+    "nodeEnjolras": {
+      "x": -75.33549687697575,
+      "y": 43.8324141542836,
+      "z": -7.208442003656027
+    },
+    "nodeCombeferre": {
+      "x": -111.85826475717738,
+      "y": 55.72852189425827,
+      "z": 28.548176359950208
+    },
+    "nodeProuvaire": {
+      "x": -135.19041987959247,
+      "y": 72.69376023426274,
+      "z": -1.8085434211347697
+    },
+    "nodeFeuilly": {
+      "x": -118.25965898861446,
+      "y": 47.91385713964948,
+      "z": 9.152376863871684
+    },
+    "nodeCourfeyrac": {
+      "x": -88.7778562417619,
+      "y": 85.4290077092539,
+      "z": -0.33252203907877664
+    },
+    "nodeBahorel": {
+      "x": -114.86516434087011,
+      "y": 81.19709294067378,
+      "z": 23.44397279254212
+    },
+    "nodeBossuet": {
+      "x": -99.45063342269766,
+      "y": 39.15361952506629,
+      "z": -7.57854552813954
+    },
+    "nodeJoly": {
+      "x": -109.33692694776369,
+      "y": 94.92258575529921,
+      "z": 7.299688491029618
+    },
+    "nodeGrantaire": {
+      "x": -130.19477804305205,
+      "y": 62.56921592731513,
+      "z": -22.13777680323239
+    },
+    "nodeMotherPlutarch": {
+      "x": -95.68037638366518,
+      "y": 82.27591811724588,
+      "z": 63.8249579802339
+    },
+    "nodeGueulemer": {
+      "x": 21.590808865806817,
+      "y": 55.89507729103845,
+      "z": -53.31543944177583
+    },
+    "nodeBabet": {
+      "x": 17.48517848135725,
+      "y": 39.6206008865387,
+      "z": -66.40707108621066
+    },
+    "nodeClaquesous": {
+      "x": -2.0267526141338403,
+      "y": 36.46395618291891,
+      "z": -37.40888458381263
+    },
+    "nodeMontparnasse": {
+      "x": -10.320564458836866,
+      "y": 40.874833156881586,
+      "z": -61.03460837704253
+    },
+    "nodeToussaint": {
+      "x": 44.77454188804287,
+      "y": -2.77199455333759,
+      "z": -2.122627752928802
+    },
+    "nodeChild1": {
+      "x": -86.36891038010633,
+      "y": 87.07209941212548,
+      "z": -57.09880067367481
+    },
+    "nodeChild2": {
+      "x": -62.73810515015033,
+      "y": 80.44833707518295,
+      "z": -69.22682112215897
+    },
+    "nodeBrujon": {
+      "x": -2.406155974219194,
+      "y": 78.64599694307418,
+      "z": -62.241239548648906
+    },
+    "nodeMme.Hucheloup": {
+      "x": -110.30376925746974,
+      "y": 82.80516336766654,
+      "z": -25.77065002115002
+    }
+  },
+  "L1D": {
+    "nodeFauchelevent": {
+      "x": 82.89141618925125,
+      "y": 33.80138360729827,
+      "z": -24.485447716542012
+    },
+    "nodeMotherInnocent": {
+      "x": 82.89141618925125,
+      "y": 33.80138360729827,
+      "z": -16.406777020320373
+    },
+    "nodeGribier": {
+      "x": 82.89141618925125,
+      "y": 33.80138360729827,
+      "z": -4.134585339449691
+    },
+    "nodeMyriel": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": -0.6702001080264813
+    },
+    "nodeNapoleon": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": 8.539050918813874
+    },
+    "nodeMlle.Baptistine": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": 16.695828876930037
+    },
+    "nodeMme.Magloire": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": 28.62725938051611
+    },
+    "nodeCountessdeLo": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": 6.532579327437094
+    },
+    "nodeGeborand": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": -6.288108229134031
+    },
+    "nodeChamptercier": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": 2.8352534789259045
+    },
+    "nodeCravatte": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": 11.05163887566204
+    },
+    "nodeCount": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": 16.397215942760205
+    },
+    "nodeOldMan": {
+      "x": -1.5369856846839691,
+      "y": -56.46561561140033,
+      "z": -3.960168364974105
+    },
+    "nodeLabarre": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 60.459878965922734
+    },
+    "nodeValjean": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 72.98508819658687
+    },
+    "nodeMme.deR": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 86.05582419122102
+    },
+    "nodeIsabeau": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 79.02268409142789
+    },
+    "nodeGervais": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 64.80384096043221
+    },
+    "nodeBamatabois": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 66.02400265493286
+    },
+    "nodeSimplice": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 56.181186120136964
+    },
+    "nodeScaufflaire": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 77.07704506153586
+    },
+    "nodeWoman1": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 67.86579608896807
+    },
+    "nodeJudge": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 49.860414513951966
+    },
+    "nodeChampmathieu": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 37.70174897975873
+    },
+    "nodeBrevet": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 49.319481037583984
+    },
+    "nodeChenildieu": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 53.24602131278777
+    },
+    "nodeCochepaille": {
+      "x": -25.580181359533704,
+      "y": 5.851940209015952,
+      "z": 57.535244114133185
+    },
+    "nodeMarguerite": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 47.20335885002464
+    },
+    "nodeTholomyes": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 44.05251484752729
+    },
+    "nodeListolier": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 75.38707776858332
+    },
+    "nodeFameuil": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 62.01486303531976
+    },
+    "nodeBlacheville": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 58.290605365624955
+    },
+    "nodeFavourite": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 39.20108480648336
+    },
+    "nodeDahlia": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 46.18550473333354
+    },
+    "nodeZephine": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 64.186098444143
+    },
+    "nodeFantine": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 58.13130153619748
+    },
+    "nodePerpetue": {
+      "x": 61.98437307735602,
+      "y": 46.589538292265125,
+      "z": 48.23679962322933
+    },
+    "nodeMme.Thenardier": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 4.192295201230338
+    },
+    "nodeThenardier": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 19.47225049734986
+    },
+    "nodeJavert": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 32.50648819227778
+    },
+    "nodePontmercy": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 28.69066642023566
+    },
+    "nodeEponine": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 32.50721011569245
+    },
+    "nodeAnzelma": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 20.36205688262352
+    },
+    "nodeGueulemer": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 7.063354860567515
+    },
+    "nodeBabet": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 28.330732889071015
+    },
+    "nodeClaquesous": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 23.279613040440324
+    },
+    "nodeMontparnasse": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 5.41468217678458
+    },
+    "nodeBrujon": {
+      "x": 74.54670812484065,
+      "y": -92.01236195410416,
+      "z": 4.965950141266753
+    },
+    "nodeCosette": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -36.318637717683835
+    },
+    "nodeWoman2": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -26.14755602445876
+    },
+    "nodeGillenormand": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -9.16150771731166
+    },
+    "nodeMagnon": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -19.636129615628775
+    },
+    "nodeMlle.Gillenormand": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -29.91853176046327
+    },
+    "nodeMme.Pontmercy": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -35.01790633379962
+    },
+    "nodeMlle.Vaubois": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -33.270941635297
+    },
+    "nodeLt.Gillenormand": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -32.81868964938603
+    },
+    "nodeBaronessT": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -27.336080403662436
+    },
+    "nodeToussaint": {
+      "x": -36.66410140912678,
+      "y": 88.57089058638154,
+      "z": -38.34018557894668
+    },
+    "nodeBoulatruelle": {
+      "x": -99.80136668708907,
+      "y": -18.26652842060848,
+      "z": -28.14263518317803
+    },
+    "nodeJondrette": {
+      "x": -87.12451056835921,
+      "y": -62.04392216119239,
+      "z": 31.732778189575612
+    },
+    "nodeMme.Burgon": {
+      "x": -87.12451056835921,
+      "y": -62.04392216119239,
+      "z": 37.97197263511718
+    },
+    "nodeGavroche": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 16.524127455243303
+    },
+    "nodeMarius": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 25.652521449428264
+    },
+    "nodeMabeuf": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 40.72075705828716
+    },
+    "nodeEnjolras": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 31.98176721921012
+    },
+    "nodeCombeferre": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 23.26223399933978
+    },
+    "nodeProuvaire": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 9.768626732436928
+    },
+    "nodeFeuilly": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 15.689433264314264
+    },
+    "nodeCourfeyrac": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 27.720492906692993
+    },
+    "nodeBahorel": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 30.922106390155502
+    },
+    "nodeBossuet": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 4.307483145620384
+    },
+    "nodeJoly": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 3.7359895681503295
+    },
+    "nodeGrantaire": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 3.6352528787305602
+    },
+    "nodeMme.Hucheloup": {
+      "x": 0.005017295618777715,
+      "y": 114.50179680394021,
+      "z": 27.144350349765475
+    },
+    "nodeMotherPlutarch": {
+      "x": 33.28160549617043,
+      "y": -87.65329501632121,
+      "z": -46.88428819325773
+    },
+    "nodeChild1": {
+      "x": -2.01231317257776,
+      "y": 27.088685834289173,
+      "z": -75.28449011103557
+    },
+    "nodeChild2": {
+      "x": -2.01231317257776,
+      "y": 27.088685834289173,
+      "z": -69.04529566549407
+    }
+  },
+  "L2D": {
+    "nodeFauchelevent": {
+      "x": 59.08644130856571,
+      "y": 33.80138360729827,
+      "z": -24.485447716542012
+    },
+    "nodeMotherInnocent": {
+      "x": 47.335890042428275,
+      "y": 33.80138360729827,
+      "z": -16.406777020320373
+    },
+    "nodeGribier": {
+      "x": 44.970946429042826,
+      "y": 33.80138360729827,
+      "z": -4.134585339449691
+    },
+    "nodeMyriel": {
+      "x": 8.364633894705113,
+      "y": -56.46561561140033,
+      "z": -0.6702001080264813
+    },
+    "nodeNapoleon": {
+      "x": -5.1610917765778295,
+      "y": -56.46561561140033,
+      "z": 8.539050918813874
+    },
+    "nodeMlle.Baptistine": {
+      "x": -9.710900033000266,
+      "y": -56.46561561140033,
+      "z": 16.695828876930037
+    },
+    "nodeMme.Magloire": {
+      "x": 6.436456571916461,
+      "y": -56.46561561140033,
+      "z": 28.62725938051611
+    },
+    "nodeCountessdeLo": {
+      "x": 5.101956240673618,
+      "y": -56.46561561140033,
+      "z": 6.532579327437094
+    },
+    "nodeGeborand": {
+      "x": -17.60684104340117,
+      "y": -56.46561561140033,
+      "z": -6.288108229134031
+    },
+    "nodeChamptercier": {
+      "x": -16.455369779643245,
+      "y": -56.46561561140033,
+      "z": 2.8352534789259045
+    },
+    "nodeCravatte": {
+      "x": -11.860128457899744,
+      "y": -56.46561561140033,
+      "z": 11.05163887566204
+    },
+    "nodeCount": {
+      "x": -6.913355257128716,
+      "y": -56.46561561140033,
+      "z": 16.397215942760205
+    },
+    "nodeOldMan": {
+      "x": 4.915604749042511,
+      "y": -56.46561561140033,
+      "z": -3.960168364974105
+    },
+    "nodeLabarre": {
+      "x": -7.70311058902291,
+      "y": 5.851940209015952,
+      "z": 60.459878965922734
+    },
+    "nodeValjean": {
+      "x": -16.072530848153633,
+      "y": 5.851940209015952,
+      "z": 72.98508819658687
+    },
+    "nodeMme.deR": {
+      "x": -18.84396381381068,
+      "y": 5.851940209015952,
+      "z": 86.05582419122102
+    },
+    "nodeIsabeau": {
+      "x": -9.426292128036618,
+      "y": 5.851940209015952,
+      "z": 79.02268409142789
+    },
+    "nodeGervais": {
+      "x": 5.7215149970172785,
+      "y": 5.851940209015952,
+      "z": 64.80384096043221
+    },
+    "nodeBamatabois": {
+      "x": -25.981007780440045,
+      "y": 5.851940209015952,
+      "z": 66.02400265493286
+    },
+    "nodeSimplice": {
+      "x": -39.14864580622501,
+      "y": 5.851940209015952,
+      "z": 56.181186120136964
+    },
+    "nodeScaufflaire": {
+      "x": -45.644214602095104,
+      "y": 5.851940209015952,
+      "z": 77.07704506153586
+    },
+    "nodeWoman1": {
+      "x": -15.882376776867487,
+      "y": 5.851940209015952,
+      "z": 67.86579608896807
+    },
+    "nodeJudge": {
+      "x": -4.719859726463497,
+      "y": 5.851940209015952,
+      "z": 49.860414513951966
+    },
+    "nodeChampmathieu": {
+      "x": -15.839665202026353,
+      "y": 5.851940209015952,
+      "z": 37.70174897975873
+    },
+    "nodeBrevet": {
+      "x": -36.061583590459236,
+      "y": 5.851940209015952,
+      "z": 49.319481037583984
+    },
+    "nodeChenildieu": {
+      "x": -29.007589562737127,
+      "y": 5.851940209015952,
+      "z": 53.24602131278777
+    },
+    "nodeCochepaille": {
+      "x": -3.625692162032682,
+      "y": 5.851940209015952,
+      "z": 57.535244114133185
+    },
+    "nodeMarguerite": {
+      "x": 44.96336230120306,
+      "y": 46.589538292265125,
+      "z": 47.20335885002464
+    },
+    "nodeTholomyes": {
+      "x": 34.28408176258443,
+      "y": 46.589538292265125,
+      "z": 44.05251484752729
+    },
+    "nodeListolier": {
+      "x": 34.068930936547204,
+      "y": 46.589538292265125,
+      "z": 75.38707776858332
+    },
+    "nodeFameuil": {
+      "x": 51.84103773286568,
+      "y": 46.589538292265125,
+      "z": 62.01486303531976
+    },
+    "nodeBlacheville": {
+      "x": 50.191195749531296,
+      "y": 46.589538292265125,
+      "z": 58.290605365624955
+    },
+    "nodeFavourite": {
+      "x": 43.46509769522722,
+      "y": 46.589538292265125,
+      "z": 39.20108480648336
+    },
+    "nodeDahlia": {
+      "x": 19.040407842519297,
+      "y": 46.589538292265125,
+      "z": 46.18550473333354
+    },
+    "nodeZephine": {
+      "x": 22.769298823841524,
+      "y": 46.589538292265125,
+      "z": 64.186098444143
+    },
+    "nodeFantine": {
+      "x": 30.194414331157184,
+      "y": 46.589538292265125,
+      "z": 58.13130153619748
+    },
+    "nodePerpetue": {
+      "x": 42.52357180106793,
+      "y": 46.589538292265125,
+      "z": 48.23679962322933
+    },
+    "nodeMme.Thenardier": {
+      "x": 54.919822474774904,
+      "y": -92.01236195410416,
+      "z": 4.192295201230338
+    },
+    "nodeThenardier": {
+      "x": 39.860406987849714,
+      "y": -92.01236195410416,
+      "z": 19.47225049734986
+    },
+    "nodeJavert": {
+      "x": 56.45024522195763,
+      "y": -92.01236195410416,
+      "z": 32.50648819227778
+    },
+    "nodePontmercy": {
+      "x": 49.51650861477133,
+      "y": -92.01236195410416,
+      "z": 28.69066642023566
+    },
+    "nodeEponine": {
+      "x": 56.448070969215,
+      "y": -92.01236195410416,
+      "z": 32.50721011569245
+    },
+    "nodeAnzelma": {
+      "x": 30.95651473645903,
+      "y": -92.01236195410416,
+      "z": 20.36205688262352
+    },
+    "nodeGueulemer": {
+      "x": 28.67198602963379,
+      "y": -92.01236195410416,
+      "z": 7.063354860567515
+    },
+    "nodeBabet": {
+      "x": 29.546352528771674,
+      "y": -92.01236195410416,
+      "z": 28.330732889071015
+    },
+    "nodeClaquesous": {
+      "x": 40.71434984551333,
+      "y": -92.01236195410416,
+      "z": 23.279613040440324
+    },
+    "nodeMontparnasse": {
+      "x": 55.59430938931288,
+      "y": -92.01236195410416,
+      "z": 5.41468217678458
+    },
+    "nodeBrujon": {
+      "x": 52.65204960016112,
+      "y": -92.01236195410416,
+      "z": 4.965950141266753
+    },
+    "nodeCosette": {
+      "x": -21.03274262295021,
+      "y": 88.57089058638154,
+      "z": -36.318637717683835
+    },
+    "nodeWoman2": {
+      "x": -29.70678599764126,
+      "y": 88.57089058638154,
+      "z": -26.14755602445876
+    },
+    "nodeGillenormand": {
+      "x": -27.11933995113831,
+      "y": 88.57089058638154,
+      "z": -9.16150771731166
+    },
+    "nodeMagnon": {
+      "x": -10.006718066374292,
+      "y": 88.57089058638154,
+      "z": -19.636129615628775
+    },
+    "nodeMlle.Gillenormand": {
+      "x": -14.875923788428844,
+      "y": 88.57089058638154,
+      "z": -29.91853176046327
+    },
+    "nodeMme.Pontmercy": {
+      "x": -25.110871944690942,
+      "y": 88.57089058638154,
+      "z": -35.01790633379962
+    },
+    "nodeMlle.Vaubois": {
+      "x": -40.73929311265191,
+      "y": 88.57089058638154,
+      "z": -33.270941635297
+    },
+    "nodeLt.Gillenormand": {
+      "x": -43.29066561309387,
+      "y": 88.57089058638154,
+      "z": -32.81868964938603
+    },
+    "nodeBaronessT": {
+      "x": -22.482805979037806,
+      "y": 88.57089058638154,
+      "z": -27.336080403662436
+    },
+    "nodeToussaint": {
+      "x": -18.90703286722864,
+      "y": 88.57089058638154,
+      "z": -38.34018557894668
+    },
+    "nodeBoulatruelle": {
+      "x": -63.27083877634576,
+      "y": -18.26652842060848,
+      "z": -28.14263518317803
+    },
+    "nodeJondrette": {
+      "x": -50.87852028908384,
+      "y": -62.04392216119239,
+      "z": 31.732778189575612
+    },
+    "nodeMme.Burgon": {
+      "x": -62.06137909384766,
+      "y": -62.04392216119239,
+      "z": 37.97197263511718
+    },
+    "nodeGavroche": {
+      "x": 14.609512551934083,
+      "y": 114.50179680394021,
+      "z": 16.524127455243303
+    },
+    "nodeMarius": {
+      "x": -4.861606136202963,
+      "y": 114.50179680394021,
+      "z": 25.652521449428264
+    },
+    "nodeMabeuf": {
+      "x": -0.6700315149362803,
+      "y": 114.50179680394021,
+      "z": 40.72075705828716
+    },
+    "nodeEnjolras": {
+      "x": 7.971532113977456,
+      "y": 114.50179680394021,
+      "z": 31.98176721921012
+    },
+    "nodeCombeferre": {
+      "x": 12.436036259968859,
+      "y": 114.50179680394021,
+      "z": 23.26223399933978
+    },
+    "nodeProuvaire": {
+      "x": -3.3479349373414795,
+      "y": 114.50179680394021,
+      "z": 9.768626732436928
+    },
+    "nodeFeuilly": {
+      "x": -17.64756491612447,
+      "y": 114.50179680394021,
+      "z": 15.689433264314264
+    },
+    "nodeCourfeyrac": {
+      "x": -20.182041789222698,
+      "y": 114.50179680394021,
+      "z": 27.720492906692993
+    },
+    "nodeBahorel": {
+      "x": -8.061241779972617,
+      "y": 114.50179680394021,
+      "z": 30.922106390155502
+    },
+    "nodeBossuet": {
+      "x": 3.812063589979069,
+      "y": 114.50179680394021,
+      "z": 4.307483145620384
+    },
+    "nodeJoly": {
+      "x": 2.8470122029373313,
+      "y": 114.50179680394021,
+      "z": 3.7359895681503295
+    },
+    "nodeGrantaire": {
+      "x": -16.250287112933623,
+      "y": 114.50179680394021,
+      "z": 3.6352528787305602
+    },
+    "nodeMme.Hucheloup": {
+      "x": -4.274595212110629,
+      "y": 114.50179680394021,
+      "z": 27.144350349765475
+    },
+    "nodeMotherPlutarch": {
+      "x": 21.099461515075184,
+      "y": -87.65329501632121,
+      "z": -46.88428819325773
+    },
+    "nodeChild1": {
+      "x": 3.079860223010453,
+      "y": 27.088685834289173,
+      "z": -75.28449011103557
+    },
+    "nodeChild2": {
+      "x": -8.102998581753374,
+      "y": 27.088685834289173,
+      "z": -69.04529566549407
+    }
+  },
+  "L3D": {
+    "nodeFauchelevent": {
+      "x": 59.08644130856571,
+      "y": 35.28161684459859,
+      "z": -24.485447716542012
+    },
+    "nodeMotherInnocent": {
+      "x": 47.335890042428275,
+      "y": 8.895767174069231,
+      "z": -16.406777020320373
+    },
+    "nodeGribier": {
+      "x": 44.970946429042826,
+      "y": 18.36621677665747,
+      "z": -4.134585339449691
+    },
+    "nodeMyriel": {
+      "x": 8.364633894705113,
+      "y": -26.59142245090761,
+      "z": -0.6702001080264813
+    },
+    "nodeNapoleon": {
+      "x": -5.1610917765778295,
+      "y": -51.71798593551202,
+      "z": 8.539050918813874
+    },
+    "nodeMlle.Baptistine": {
+      "x": -9.710900033000266,
+      "y": -42.98526271330532,
+      "z": 16.695828876930037
+    },
+    "nodeMme.Magloire": {
+      "x": 6.436456571916461,
+      "y": -20.642170594904467,
+      "z": 28.62725938051611
+    },
+    "nodeCountessdeLo": {
+      "x": 5.101956240673618,
+      "y": -55.51650393030639,
+      "z": 6.532579327437094
+    },
+    "nodeGeborand": {
+      "x": -17.60684104340117,
+      "y": -12.694449036616145,
+      "z": -6.288108229134031
+    },
+    "nodeChamptercier": {
+      "x": -16.455369779643245,
+      "y": -43.04326427386694,
+      "z": 2.8352534789259045
+    },
+    "nodeCravatte": {
+      "x": -11.860128457899744,
+      "y": -45.368888412132264,
+      "z": 11.05163887566204
+    },
+    "nodeCount": {
+      "x": -6.913355257128716,
+      "y": -7.237814438010246,
+      "z": 16.397215942760205
+    },
+    "nodeOldMan": {
+      "x": 4.915604749042511,
+      "y": -56.19615110014394,
+      "z": -3.960168364974105
+    },
+    "nodeLabarre": {
+      "x": -7.70311058902291,
+      "y": 20.10832236749916,
+      "z": 60.459878965922734
+    },
+    "nodeValjean": {
+      "x": -16.072530848153633,
+      "y": -5.811977528130728,
+      "z": 72.98508819658687
+    },
+    "nodeMme.deR": {
+      "x": -18.84396381381068,
+      "y": 21.017293042104505,
+      "z": 86.05582419122102
+    },
+    "nodeIsabeau": {
+      "x": -9.426292128036618,
+      "y": 22.788136840098296,
+      "z": 79.02268409142789
+    },
+    "nodeGervais": {
+      "x": 5.7215149970172785,
+      "y": -24.726193710759773,
+      "z": 64.80384096043221
+    },
+    "nodeBamatabois": {
+      "x": -25.981007780440045,
+      "y": 16.09620775245788,
+      "z": 66.02400265493286
+    },
+    "nodeSimplice": {
+      "x": -39.14864580622501,
+      "y": 3.2757919088470118,
+      "z": 56.181186120136964
+    },
+    "nodeScaufflaire": {
+      "x": -45.644214602095104,
+      "y": -3.34130630725264,
+      "z": 77.07704506153586
+    },
+    "nodeWoman1": {
+      "x": -15.882376776867487,
+      "y": 23.69245446143191,
+      "z": 67.86579608896807
+    },
+    "nodeJudge": {
+      "x": -4.719859726463497,
+      "y": -11.182077098289271,
+      "z": 49.860414513951966
+    },
+    "nodeChampmathieu": {
+      "x": -15.839665202026353,
+      "y": 6.59486006115214,
+      "z": 37.70174897975873
+    },
+    "nodeBrevet": {
+      "x": -36.061583590459236,
+      "y": 5.748434121140583,
+      "z": 49.319481037583984
+    },
+    "nodeChenildieu": {
+      "x": -29.007589562737127,
+      "y": -15.164046265955442,
+      "z": 53.24602131278777
+    },
+    "nodeCochepaille": {
+      "x": -3.625692162032682,
+      "y": 13.425269184344092,
+      "z": 57.535244114133185
+    },
+    "nodeMarguerite": {
+      "x": 44.96336230120306,
+      "y": 25.378875459141746,
+      "z": 47.20335885002464
+    },
+    "nodeTholomyes": {
+      "x": 34.28408176258443,
+      "y": 15.717911581754654,
+      "z": 44.05251484752729
+    },
+    "nodeListolier": {
+      "x": 34.068930936547204,
+      "y": 31.818009069665525,
+      "z": 75.38707776858332
+    },
+    "nodeFameuil": {
+      "x": 51.84103773286568,
+      "y": 39.59173604272235,
+      "z": 62.01486303531976
+    },
+    "nodeBlacheville": {
+      "x": 50.191195749531296,
+      "y": 18.303137228960953,
+      "z": 58.290605365624955
+    },
+    "nodeFavourite": {
+      "x": 43.46509769522722,
+      "y": 37.324198600545145,
+      "z": 39.20108480648336
+    },
+    "nodeDahlia": {
+      "x": 19.040407842519297,
+      "y": 33.89801446317022,
+      "z": 46.18550473333354
+    },
+    "nodeZephine": {
+      "x": 22.769298823841524,
+      "y": 18.929022566776368,
+      "z": 64.186098444143
+    },
+    "nodeFantine": {
+      "x": 30.194414331157184,
+      "y": 49.08910892257506,
+      "z": 58.13130153619748
+    },
+    "nodePerpetue": {
+      "x": 42.52357180106793,
+      "y": 23.599475192213802,
+      "z": 48.23679962322933
+    },
+    "nodeMme.Thenardier": {
+      "x": 54.919822474774904,
+      "y": -58.444677900036645,
+      "z": 4.192295201230338
+    },
+    "nodeThenardier": {
+      "x": 39.860406987849714,
+      "y": -79.26125027678621,
+      "z": 19.47225049734986
+    },
+    "nodeJavert": {
+      "x": 56.45024522195763,
+      "y": -60.91980428875177,
+      "z": 32.50648819227778
+    },
+    "nodePontmercy": {
+      "x": 49.51650861477133,
+      "y": -52.41451435636717,
+      "z": 28.69066642023566
+    },
+    "nodeEponine": {
+      "x": 56.448070969215,
+      "y": -60.913151836277216,
+      "z": 32.50721011569245
+    },
+    "nodeAnzelma": {
+      "x": 30.95651473645903,
+      "y": -50.717482388278604,
+      "z": 20.36205688262352
+    },
+    "nodeGueulemer": {
+      "x": 28.67198602963379,
+      "y": -59.24143472221885,
+      "z": 7.063354860567515
+    },
+    "nodeBabet": {
+      "x": 29.546352528771674,
+      "y": -60.3667250998167,
+      "z": 28.330732889071015
+    },
+    "nodeClaquesous": {
+      "x": 40.71434984551333,
+      "y": -40.95322754013162,
+      "z": 23.279613040440324
+    },
+    "nodeMontparnasse": {
+      "x": 55.59430938931288,
+      "y": -69.84906327685117,
+      "z": 5.41468217678458
+    },
+    "nodeBrujon": {
+      "x": 52.65204960016112,
+      "y": -48.890936042838135,
+      "z": 4.965950141266753
+    },
+    "nodeCosette": {
+      "x": -21.03274262295021,
+      "y": 66.81751549421391,
+      "z": -36.318637717683835
+    },
+    "nodeWoman2": {
+      "x": -29.70678599764126,
+      "y": 39.976874398031406,
+      "z": -26.14755602445876
+    },
+    "nodeGillenormand": {
+      "x": -27.11933995113831,
+      "y": 55.9679078972126,
+      "z": -9.16150771731166
+    },
+    "nodeMagnon": {
+      "x": -10.006718066374292,
+      "y": 78.25951081265413,
+      "z": -19.636129615628775
+    },
+    "nodeMlle.Gillenormand": {
+      "x": -14.875923788428844,
+      "y": 38.13871361165002,
+      "z": -29.91853176046327
+    },
+    "nodeMme.Pontmercy": {
+      "x": -25.110871944690942,
+      "y": 65.85590139049576,
+      "z": -35.01790633379962
+    },
+    "nodeMlle.Vaubois": {
+      "x": -40.73929311265191,
+      "y": 52.91605340074617,
+      "z": -33.270941635297
+    },
+    "nodeLt.Gillenormand": {
+      "x": -43.29066561309387,
+      "y": 47.17766948748508,
+      "z": -32.81868964938603
+    },
+    "nodeBaronessT": {
+      "x": -22.482805979037806,
+      "y": 79.36728804801507,
+      "z": -27.336080403662436
+    },
+    "nodeToussaint": {
+      "x": -18.90703286722864,
+      "y": 36.96995614736596,
+      "z": -38.34018557894668
+    },
+    "nodeBoulatruelle": {
+      "x": -63.27083877634576,
+      "y": -8.675187637921633,
+      "z": -28.14263518317803
+    },
+    "nodeJondrette": {
+      "x": -50.87852028908384,
+      "y": -25.864490647240977,
+      "z": 31.732778189575612
+    },
+    "nodeMme.Burgon": {
+      "x": -62.06137909384766,
+      "y": -52.98758242516523,
+      "z": 37.97197263511718
+    },
+    "nodeGavroche": {
+      "x": 14.609512551934083,
+      "y": 79.94949534258836,
+      "z": 16.524127455243303
+    },
+    "nodeMarius": {
+      "x": -4.861606136202963,
+      "y": 51.57161491478022,
+      "z": 25.652521449428264
+    },
+    "nodeMabeuf": {
+      "x": -0.6700315149362803,
+      "y": 63.29714864305031,
+      "z": 40.72075705828716
+    },
+    "nodeEnjolras": {
+      "x": 7.971532113977456,
+      "y": 83.19222093344858,
+      "z": 31.98176721921012
+    },
+    "nodeCombeferre": {
+      "x": 12.436036259968859,
+      "y": 63.5978695858499,
+      "z": 23.26223399933978
+    },
+    "nodeProuvaire": {
+      "x": -3.3479349373414795,
+      "y": 96.3968877598353,
+      "z": 9.768626732436928
+    },
+    "nodeFeuilly": {
+      "x": -17.64756491612447,
+      "y": 63.69396656510249,
+      "z": 15.689433264314264
+    },
+    "nodeCourfeyrac": {
+      "x": -20.182041789222698,
+      "y": 77.64894358688942,
+      "z": 27.720492906692993
+    },
+    "nodeBahorel": {
+      "x": -8.061241779972617,
+      "y": 86.49477101977459,
+      "z": 30.922106390155502
+    },
+    "nodeBossuet": {
+      "x": 3.812063589979069,
+      "y": 61.463653528110264,
+      "z": 4.307483145620384
+    },
+    "nodeJoly": {
+      "x": 2.8470122029373313,
+      "y": 75.96122718834982,
+      "z": 3.7359895681503295
+    },
+    "nodeGrantaire": {
+      "x": -16.250287112933623,
+      "y": 79.00351953635057,
+      "z": 3.6352528787305602
+    },
+    "nodeMme.Hucheloup": {
+      "x": -4.274595212110629,
+      "y": 56.86604782555485,
+      "z": 27.144350349765475
+    },
+    "nodeMotherPlutarch": {
+      "x": 21.099461515075184,
+      "y": -52.66415360322652,
+      "z": -46.88428819325773
+    },
+    "nodeChild1": {
+      "x": 3.079860223010453,
+      "y": 30.64270015986549,
+      "z": -75.28449011103557
+    },
+    "nodeChild2": {
+      "x": -8.102998581753374,
+      "y": 3.5196083819412194,
+      "z": -69.04529566549407
+    }
+  }
+}

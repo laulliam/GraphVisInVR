@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>IMSPViz</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <!-- Origin Trial Token, feature = WebVR (For Chrome M62+), origin = https://threejs.org, expires = 2018-09-11 -->
+    <meta http-equiv="origin-trial" data-feature="WebVR (For Chrome M62+)" data-expires="2018-09-11"
+        content="AqhFUYKxq/d+E8CDT0fuYRCg8TvlTP52x0Jv7I9t27sLhR30LmcahBRfSwzP89ukjs2+ia99VrrLoRyaFAwJVA0AAABQeyJvcmlnaW4iOiJodHRwczovL3RocmVlanMub3JnOjQ0MyIsImZlYXR1cmUiOiJXZWJWUjEuMU02MiIsImV4cGlyeSI6MTUzNjYyNDAwMH0=">
+    <!-- Origin Trial Token, feature = WebXR Device API (For Chrome M69+), origin = https://threejs.org, expires = 2018-12-02 -->
+    <meta http-equiv="origin-trial" data-feature="WebXR Device API (For Chrome M69+)" data-expires="2018-12-02"
+        content="Ah46myef4Ax/+fcLtkeotXmIqnvun4lg4bYbHVttuJvbsWiE4oacrvroId7hbCEb4/byxFHIO6+uwq4pwr6RfQkAAABTeyJvcmlnaW4iOiJodHRwczovL3RocmVlanMub3JnOjQ0MyIsImZlYXR1cmUiOiJXZWJYUkRldmljZU02OSIsImV4cGlyeSI6MTU0Mzc1ODIyNn0=">
+    <!-- Origin Trial Token, feature = WebXR Gamepad Support, origin = https://threejs.org, expires = 2018-12-02 -->
+    <meta http-equiv="origin-trial" data-feature="WebXR Gamepad Support" data-expires="2018-12-02"
+        content="AqI9LIanbGxr/HoTOsYCUNxG82Vy94NZbjhv83R+bF+5NX2jiZOaf7ny+mFoTUP5wrWpYlPjQ6+HeVas9f1lRwYAAABYeyJvcmlnaW4iOiJodHRwczovL3RocmVlanMub3JnOjQ0MyIsImZlYXR1cmUiOiJXZWJYUkdhbWVwYWRTdXBwb3J0IiwiZXhwaXJ5IjoxNTQzNzU4MjI2fQ==">
+
+</head>
+
+<body>
+    <!-- <div id="graph-container"> -->
+    <!-- <div id="widget">
+            <button id="btn-vr" class="btn btn-primary" data-loading-text="" type="button"> Enter VR</button>
+            <button id="btn-fullscreen" class="btn btn-primary" data-loading-text="" type="button">FullScreen</button>
+
+            <button class="btn" type="button" name="random_3d">random_3d</button>
+            <button class="btn" type="button" name="kk_3d">kk_3d</button>
+            <button class="btn" type="button" name="circular_3d">circular_3d</button>
+            <button class="btn" type="button" name="fr_3d">fr_3d</button>
+        </div> -->
+    <!-- </div> -->
+
+    <!-- THREE -->
+    <script src="lib/three/three.js"></script>
+    <script src="lib/three/WebVR.js"></script> 
+    <script src="lib/three/MarchingCubes.js"></script> 
+    <script src="lib/three/OrbitControls.js"></script>
+    <script src="lib/three/TrackballControls.js"></script>
+    <script src="lib/three/OBJLoader.js"></script>
+    <script src="lib/three/Stats.js"></script>
+    <!-- <script src="lib/three/BufferGeometryUtils.js"></script> -->
+
+    <!-- TEST -->
+    <!-- <script src="lib/test/d3.v3.js"></script>
+    <script src="lib/test/netClustering.js"></script>
+    <script src="lib/test/getnetwork.js"></script> -->
+
+    <!-- D3 -->
+    <script src="lib/d3/d3-dispatch.v2.min.js"></script>
+    <script src="lib/d3/d3-timer.v2.min.js"></script>
+    <script src="lib/d3/d3-quadtree.v2.min.js"></script>
+    <script src="lib/d3/d3-binarytree.min.js"></script>
+    <script src="lib/d3/d3-octree.min.js"></script>
+    <!-- <script src="lib/d3/d3-force.v2.min.js"></script> -->
+    <script src="lib/d3/d3-force-3d.min.js"></script>
+
+    <!-- LEAP -->
+    <script src="lib\leapjs\leap-1.1.0.js"></script>
+    <script src="lib\leapjs\leap-plugins-0.1.12.js"></script>
+    <script src="lib\leapjs\leap.rigged-hand-0.1.7.js"></script>
+
+    <!-- OTHER -->
+    <script src="lib/jquery/jquery-3.1.1.min.js"></script>
+
+    <!-- CUSTOM -->
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/initScene.js"></script>    
+
+    <script src="js/initLeap.js"></script>
+
+    <script src="js/initGraph.js"></script>
+    <script src="js/initGestures.js"></script>
+    
+
+</body>
+
+</html>
