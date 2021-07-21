@@ -1,2 +1,2 @@
 # IMSPViz
-![](public/data/grapg-Case1-1.png)
+![](https://github.com/laulliam/IMSPViz/blob/master/public/data/graph-Case1-1.png)
