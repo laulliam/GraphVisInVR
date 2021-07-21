@@ -1,2 +1,2 @@
 # IMSPViz
-![](./public/data/grapg-Case1-1.png)
+![](public/data/grapg-Case1-1.png)
